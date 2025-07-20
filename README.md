@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Youssef Mohamed</h1>
 <h3 align="center">A passionate Front-End Developer from Egypt 🇪🇬</h3>
 
+<h6 align="center">
+  <img src="https://private-us-east-1.manuscdn.com/sessionFile/5iWfWraKSptaCceie0m2oD/sandbox/5rKE7AsYHpuuuLCBcMfNcu_1753004116390_na1fn_L2hvbWUvdWJ1bnR1L2FuaW1hdGVkX2xvZ29fZmxvYXRpbmc.gif?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvNWlXZldyYUtTcHRhQ2NlaWUwbTJvRC9zYW5kYm94LzVyS0U3QXNZSHB1dXVMQ0JjTWZOY3VfMTc1MzAwNDExNjM5MF9uYTFmbl9MMmh2YldVdmRXSjFiblIxTDJGdWFXMWhkR1ZrWDJ4dloyOWZabXh2WVhScGJtYy5naWYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=SiQ6ozFSAd-ImoiA9~L8Gni22aPOkzL0zFWmSklnm9IspMCGFlLDgMaBPOJNSJwipjbrkfgD1drKqaoIM1Z1NutRd9mo~2UrprTpdysXnnhumZzW8KSvHroPHEWVEw6Pe0pTFtUxiwHu6koDTLPK3rw~MdPirnfKBeyWLBBHeAGBqrTo6rn7S1zUkBQBnp9vPV7wALHuO8ZUaC2MX7osf0Dil6VfcYciA~Vb4CFTfWZhKlB4EPS5MNpferMwhQtK73RezYDG9vHxU8B-vsz2FUM-FTrM-zjh7g64yngWloUe55KQ4sYMyXXEVOmm2Q1mxrCpmNRP8VaDbpzfQLCDlg__" alt="animated logo" />
+</h6>
+
 ---
 
 ### 🧑‍💻 About Me
